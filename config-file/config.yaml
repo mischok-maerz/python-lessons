@@ -1,0 +1,5 @@
+# Einstellungen für unsere App
+ui:
+  background_color: "forestgreen"
+  width: 800
+  height: 600

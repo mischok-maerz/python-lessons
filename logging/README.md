@@ -25,3 +25,7 @@ Mit `logging.basicConfig()` legst du fest, wie geloggt wird:
 ## 4. Best Practices
 - Nutze **F-Strings** für Variablen: `logger.info(f"User {name} eingeloggt")`.
 - Nutze `__name__`: Damit weißt du immer, aus welchem Modul der Log kommt.
+
+## 5. Dokumentatioon
+
+ - [Python Logging Cookbook](https://docs.python.org/3/howto/logging-cookbook.html#logging-cookbook)
